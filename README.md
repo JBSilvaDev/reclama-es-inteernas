@@ -5,8 +5,8 @@
 Este aplicativo PowerApps foi desenvolvido para atender às necessidades do setor logístico, especialmente para a equipe de recebimento. O aplicativo é responsivo, facilitando a utilização em diferentes dispositivos.
 
 ## Aviso DEV
-Para usar este modelo no seu projeto é necessario uma conexa com banco de dados que foi removida do mesmo por motivos de seguraça.
-Este app esta em uso na cidede de Mucuri-BA por na area de logistica.
+Para usar este modelo no seu projeto é necessário uma conexão com banco de dados que foi removida do mesmo por motivos de seguraça.
+Este app esta em uso na cidade de Mucuri-BA por uma empresa da area de logistica.
 
 ## Funcionalidades Principais
 
